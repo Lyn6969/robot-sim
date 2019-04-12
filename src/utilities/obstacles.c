@@ -138,21 +138,13 @@ int ParseObstacleFile(const char *name, obstacles_t * obstacles) {
 }
 
 void ControlObstacles(unsigned char key ,obstacles_t * Obstacles, int vol){
-<<<<<<< HEAD
      int i,j;
      switch(key){
          case 'i':
-=======
-    // int i,j;
-    //Obstacles->o[0].p[0][1] += vol; 
-     /*switch(key){
-         case 'w':
->>>>>>> 4acfa3210c9e9e081baf91e920998f1833ac1f5f
             for (j = 0; j < Obstacles->o_count; j++){
                 for (i = 0;i < Obstacles->o[j].p_count; i++ ){
                 Obstacles->o[j].p[i][1] += vol;
                 }
-<<<<<<< HEAD
             };
          break;
          case 'k':
@@ -177,10 +169,4 @@ void ControlObstacles(unsigned char key ,obstacles_t * Obstacles, int vol){
             };
          break;
         }
-=======
-     
-            };
-        break;
-      }*/
->>>>>>> 4acfa3210c9e9e081baf91e920998f1833ac1f5f
 }
