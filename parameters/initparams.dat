@@ -1,5 +1,9 @@
 # Number of agents
+<<<<<<< HEAD
 NumberOfAgents=50
+=======
+NumberOfAgents=30
+>>>>>>> 4acfa3210c9e9e081baf91e920998f1833ac1f5f
 # Length of the simulated experiment (s)
 # 
 Length=600.0

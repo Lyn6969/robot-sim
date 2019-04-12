@@ -25,6 +25,7 @@ V_Shill=652.174000
 # Acc limit of shill (Multiply it with 0.010000 to get its Value in m/s^2)
 Acc_Shill=250.000000
 # Arena Radius (Multiply it with 0.010000 to get its Value in m)
+<<<<<<< HEAD
 ArenaRadius=40000.000000
 # Friction coefficient (-)
 C_Frict=0.023802
@@ -34,5 +35,16 @@ ArenaCenterX=-5717.009528
 ArenaCenterY=-18249.859933
 # Shape of the arena (Multiply it with 0.000000 to get its real Value)
 ArenaShape=1.000000
+=======
+ArenaRadius=23000.000000
+# Friction coefficient (-)
+C_Frict=0.023802
+# Arena Center X (Multiply it with 0.010000 to get its Value in m)
+ArenaCenterX=5600.000000
+# Arena Center Y (Multiply it with 0.010000 to get its Value in m)
+ArenaCenterY=4400.000000
+# Shape of the arena (Multiply it with 0.000000 to get its real Value)
+ArenaShape=0.000000
+>>>>>>> 4acfa3210c9e9e081baf91e920998f1833ac1f5f
 # Number of dimensions in the simulation (2 or 3)
 Dim=2.000000

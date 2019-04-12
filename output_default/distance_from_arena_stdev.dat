@@ -1,0 +1,3 @@
+This file contains standard deviations. Check out "distance_from_arena.dat" for more details!
+time_elapsed_near_arena_(s)	distance_from_arena_avg_(cm)	distance_from_arena_stdev_(cm)	distance_from_arena_min_(cm)	distance_from_arena_max_(cm)	number_of_agents_outside
+23.500000	1084.310379	1168.261110	1061.406749	2640.005482	1.545127
